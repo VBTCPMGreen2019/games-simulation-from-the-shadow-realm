@@ -1,0 +1,35 @@
+﻿  PacMan_Game_Engine.cpp
+z:\projects\games\games-and-simulation-engine\key_inputs.h(37): error C2065: 'y': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(37): error C2065: 'Up': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(39): error C2065: 'Up': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(39): error C2065: 'y': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(42): error C3861: 'LoadEntities': identifier not found
+z:\projects\games\games-and-simulation-engine\key_inputs.h(48): error C2065: 'y': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(48): error C2065: 'Down': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(50): error C2065: 'Down': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(50): error C2065: 'y': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(53): error C3861: 'LoadEntities': identifier not found
+z:\projects\games\games-and-simulation-engine\key_inputs.h(59): error C2065: 'x': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(59): error C2065: 'Left': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(61): error C2065: 'Left': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(61): error C2065: 'x': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(64): error C3861: 'LoadEntities': identifier not found
+z:\projects\games\games-and-simulation-engine\key_inputs.h(70): error C2065: 'x': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(70): error C2065: 'Right': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(72): error C2065: 'Right': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(72): error C2065: 'x': undeclared identifier
+z:\projects\games\games-and-simulation-engine\key_inputs.h(75): error C3861: 'LoadEntities': identifier not found
+z:\projects\games\games-and-simulation-engine\collision_detection.h(19): error C2065: 'x': undeclared identifier
+z:\projects\games\games-and-simulation-engine\collision_detection.h(20): error C2065: 'y': undeclared identifier
+z:\projects\games\games-and-simulation-engine\collision_detection.h(20): error C2065: 'Up': undeclared identifier
+z:\projects\games\games-and-simulation-engine\collision_detection.h(21): error C2065: 'y': undeclared identifier
+z:\projects\games\games-and-simulation-engine\collision_detection.h(21): error C2065: 'Up': undeclared identifier
+z:\projects\games\games-and-simulation-engine\collision_detection.h(23): error C2065: 'x': undeclared identifier
+z:\projects\games\games-and-simulation-engine\collision_detection.h(24): error C2065: 'y': undeclared identifier
+z:\projects\games\games-and-simulation-engine\collision_detection.h(24): error C2065: 'Up': undeclared identifier
+z:\projects\games\games-and-simulation-engine\collision_detection.h(31): error C2065: 'x': undeclared identifier
+z:\projects\games\games-and-simulation-engine\collision_detection.h(32): error C2065: 'y': undeclared identifier
+z:\projects\games\games-and-simulation-engine\collision_detection.h(32): error C2065: 'Down': undeclared identifier
+z:\projects\games\games-and-simulation-engine\collision_detection.h(34): error C2065: 'x': undeclared identifier
+z:\projects\games\games-and-simulation-engine\collision_detection.h(35): error C2065: 'y': undeclared identifier
+z:\projects\games\games-and-simulation-engine\collision_detection.h(35): error C2065: 'Down': undeclared identifier
